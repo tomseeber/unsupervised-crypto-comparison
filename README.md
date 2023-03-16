@@ -9,7 +9,7 @@ The analyis and processing roughly proceeded in the following steps.
 3. Clustering Cryptocurrencies Using K-means
 4. Visualizing Cryptocurrencies Results
 
-The analysis is in contained in this [Jupyter Notebook]('crypto_clustering.ipynb')
+The analysis is in contained in this [Jupyter Notebook](crypto_clustering.ipynb)
 
 ## Analysis
 
